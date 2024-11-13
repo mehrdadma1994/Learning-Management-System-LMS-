@@ -9,7 +9,7 @@ The Learning Management System (LMS) is a web-based platform designed to manage,
 - **Assignments & Quizzes**: Create and grade assignments and quizzes for students.
 - **Discussion Forums**: Students and instructors can engage in course discussions.
 - **Progress Tracking**: Students can track their learning progress, grades, and upcoming deadlines.
-- **Notifications**: Get notifications about new assignments, upcoming exams, and announcements.
+- **Notifications**: Get notifications about new assignments, upcoming exams and announcements.
 - **Reports & Analytics**: Admins can view reports on student performance, course engagement, and more.
 - **Certificates**: Issue completion certificates to students who successfully complete courses.
 
