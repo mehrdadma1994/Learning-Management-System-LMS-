@@ -16,7 +16,7 @@ The Learning Management System (LMS) is a web-based platform designed to manage,
 ## Technologies Used
 - **Frontend**: React.js, HTML5, CSS3, Bootstrap
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB for storing user data, course information, and progress tracking
+- **Database**: MongoDB for storing user data, course information, and progress tracking.
 - **Authentication**: JWT (JSON Web Tokens) for secure login and session management
 - **API Integration**: RESTful API for course and user management
 - **File Storage**: AWS S3 for storing course content (videos, PDFs, etc.)
