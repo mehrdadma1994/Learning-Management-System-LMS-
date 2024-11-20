@@ -1,7 +1,7 @@
 # Learning Management System (LMS)
 
 ## Overview
-The Learning Management System (LMS) is a web-based platform designed to manage, track, and deliver educational courses, training programs, or learning and development programs. It allows instructors to create and manage courses, assignments, quizzes, and other educational content, while providing students with a personalized learning experience  .
+The Learning Management System (LMS) is a web-based platform designed to manage, track, and deliver educational courses, training programs, or learning and development programs . It allows instructors to create and manage courses, assignments, quizzes, and other educational content, while providing students with a personalized learning experience  .
 
 ## Features
 - **User Management**: Admins can manage users, including instructors, students, and staff.
